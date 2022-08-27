@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Repository Traffic
-        uses: wumphlett/repostats@v1.1.0
+        uses: wumphlett/repostats@v2.0.1
         with:
           format_readme: true
         env:
