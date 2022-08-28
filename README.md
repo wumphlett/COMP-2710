@@ -19,11 +19,11 @@ Software Construction
    17.60  ┤            ││
    14.67  ┤            ││
    11.73  ┤            ││
-    8.80  ┤            ││
-    5.87  ┤          ╭╮││
-    2.93  ┤  ╭╮ ╭╮   │││╰─
+    8.80  ┤            ││╭
+    5.87  ┤          ╭╮│││
+    2.93  ┤  ╭╮ ╭╮   │││╰╯
     0.00  ┼──╯╰─╯╰───╯╰╯
 
-    Chart last updated - Sat Aug 27 20:46:01 2022 UTC
+    Chart last updated - Sun Aug 28 00:00:25 2022 UTC
     
 ```
