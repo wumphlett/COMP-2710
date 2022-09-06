@@ -4,7 +4,7 @@ Software Construction
 
 ```
 
-    Total Views per Day from 2022-08-12 to 2022-09-04
+    Total Views per Day from 2022-08-12 to 2022-09-05
 
     Repository Views
    44.00  ┼            ╭╮
@@ -20,10 +20,10 @@ Software Construction
    14.67  ┤            ││  ││ ╭╮
    11.73  ┤            ││  │╰╮│╰╮
     8.80  ┤            ││╭╮│ ││ │
-    5.87  ┤          ╭╮│││││ ╰╯ │
-    2.93  ┤  ╭╮ ╭╮   │││╰╯││    ╰─
+    5.87  ┤          ╭╮│││││ ╰╯ │ ╭
+    2.93  ┤  ╭╮ ╭╮   │││╰╯││    ╰─╯
     0.00  ┼──╯╰─╯╰───╯╰╯  ╰╯
 
-    Chart last updated - Mon Sep  5 00:00:25 2022 UTC
+    Chart last updated - Tue Sep  6 00:00:23 2022 UTC
     
 ```
